@@ -1,2 +1,2 @@
 # rain-prediction
-ai enabled rain prediction wesite
+AI enabled rain prediction website
